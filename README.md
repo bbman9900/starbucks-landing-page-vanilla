@@ -1,1 +1,1 @@
-"# starbucks-landing-page-vanilla" 
+# Starbucks
